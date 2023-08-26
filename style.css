@@ -1,0 +1,34 @@
+body{
+  background-color:#73cfd8;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 25px;
+    background-color: greenyellow;
+    color: white;
+    font-weight:bold;
+}
+
+.note{
+    color: white;
+    font-size: 15px;
+}
+.song_name{
+    font-size: 20px;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
+#music{
+    margin-top:10px;
+    width:150px;
+    height:50px;
+    font-size:x-large;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom:5px;
+}
